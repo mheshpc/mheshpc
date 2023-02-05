@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahesh</h1>
-<h3 align="center">A software engineer from Colombia</h3>
+<h3 align="center">A software engineer from Canada</h3>
 
 ## 💬 Ask me about
 - Backend web development (Python, Node.js, PHP)
@@ -18,11 +18,11 @@
 - etc...
 
 ## 💻 Current project
-- [financial-go](https://github.com/Jvillegasd/financial-go)
+- 
 
 ## 📚 Learning
 - Platzi courses about Backend development Roadmap
-- React.js with my Gf 👩‍❤️‍👨
+- React.js 
 
 ## 🎵 Spotify status
 
