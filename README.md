@@ -11,7 +11,9 @@
 
 📖 Skills: 
 Languages - C++, Python, C, SQL, JavaScript, HTML, CSS
+
 Frameworks - React.js, Three.js, Node.js
+
 Technologies - JIRA, Confluence, Git, Perforce, Docker
 
 🏋️ In my free time, you'll find me at the gym, writing articles, or on a hike.
