@@ -9,7 +9,8 @@
 
 💻 Currently working as a Build Support Specialist intern at OpenText, one of Canada's largest software companies.
 
-📖 Skills: 
+📖 Skills:
+
 - Languages - C++, Python, C, SQL, JavaScript, HTML, CSS
 - Frameworks - React.js, Three.js, Node.js
 - Technologies - JIRA, Confluence, Git, Perforce, Docker
