@@ -1,27 +1,19 @@
 <h1 align="center">Hey! I'm Mahesh</h1>
 <h3 align="center">Computer Engineering @UWaterloo</h3>
 
-## 💬 Ask me about
-- Backend web development (Python, Node.js, PHP)
-- Frontend web development (Vue.js)
-- Docker
-- Deep Learning and Machine Learning
-- Cloud Architecture
-- Design Patterns
-- Gardening (Bonsai enthusiast :evergreen_tree:)
+👋🏼 Hi! I'm Mahesh!
 
-## 📅 Hobbies
-- Solve programming problems at Codeforces, UVa, LeetCode
-- Watch anime and TV shows
-- Read some manga
-- Play videogames
-- etc...
+🔍 Open to Winter opportunities (Jan 2024 - Apr 2024) in Software Development/SWE.
 
-## 💻 Current project
-- 
+🎓 I'm pursuing a BASc in Computer Engineering from the University of Waterloo (Graduating May 2027).
 
-## 📚 Learning
-- Platzi courses about Backend development Roadmap
-- React.js 
+💻 Currently working as a Build Support Specialist intern at OpenText, one of Canada's largest software companies.
+
+📖 Skills: 
+Languages - C++, Python, C, SQL, JavaScript, HTML, CSS
+Frameworks - React.js, Three.js, Node.js
+Technologies - JIRA, Confluence, Git, Perforce, Docker
+
+🏋️ In my free time, you'll find me at the gym, writing articles, or on a hike.
 
 
