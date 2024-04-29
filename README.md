@@ -7,8 +7,8 @@
 
 🎓 I'm pursuing a BASc in Computer Engineering from the University of Waterloo (Graduating May 2027).
 
-💻 I've interned as a Software Developer intern at [OpenText][https://www.opentext.com/], one of Canada's largest software companies.
-💻 I also write firmware for [Waterloop][https://teamwaterloop.ca/], UWaterloo’s Canadian Hyperloop Competition team.
+💻 I've interned as a Software Developer intern at [OpenText](https://www.opentext.com/), one of Canada's largest software companies.
+💻 I also write firmware for [Waterloop](https://teamwaterloop.ca/), UWaterloo’s Canadian Hyperloop Competition team.
 
 📖 Skills:
 
